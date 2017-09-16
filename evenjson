@@ -1,36 +1,36 @@
 {
-        name: 'VenuKumar',
-        job: 'Developer',
-        loc: 'Hyderabad',
-        Address: {
-            AdressLine1: 'BanjaraHills',
-            AdressLine2: 'NearSkyBar',
-            Mobile: '9550527558',
+        "name": 'VenuKumar',
+        "job": 'Developer',
+        "loc": 'Hyderabad',
+        "Address": {
+            "AdressLine1": 'BanjaraHills',
+            "AdressLine2": 'NearSkyBar',
+            "Mobile": '9550527558',
         },
-        SkillSet: [
+        "SkillSet": [
             {
-                SkillName: 'Csharp',
-                Version: '4.5',
-                Exp: '2+ Years',
-                VisitCount: 0 
+                "SkillName": 'Csharp',
+                "Version": '4.5',
+                "Exp": '2+ Years',
+                "VisitCount": 0 
             },
             {
-                SkillName: 'Jquery',
-                Version: '1.9',
-                Exp: '2+ Years',
-                VisitCount: 0 
+                "SkillName": 'Jquery',
+                "Version": '1.9',
+                "Exp": '2+ Years',
+                "VisitCount": 0 
             },
             {
-                SkillName: 'SQL',
-                Version: '2014',
-                Exp: '2+ Years',
-                VisitCount: 0 
+                "SkillName": 'SQL',
+                "Version": '2014',
+                "Exp": '2+ Years',
+                "VisitCount": 0 
             },
             {
-                SkillName: 'AngularJs',
-                Version: '4.5',
-                Exp: '1+ Years',
-                VisitCount: 0 
+                "SkillName": 'AngularJs',
+                "Version": '4.5',
+                "Exp": '1+ Years',
+                "VisitCount": 0 
             }
         ]
     }
